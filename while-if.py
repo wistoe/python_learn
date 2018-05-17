@@ -1,3 +1,3 @@
 thisislove=input()
 if thisislove:
-    print("就该勇敢的留下来！")
+    print("i hate U！")
