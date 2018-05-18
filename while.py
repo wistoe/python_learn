@@ -1,4 +1,6 @@
-num2=12
+from random import randint
+num2=randint(0,100)
+
 print("guess what i think?")
 bingo=False
 while bingo==False:
