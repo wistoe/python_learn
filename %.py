@@ -7,4 +7,11 @@ name='Mike'
 data=99
 print("%s's score is %d"%(name,data))
 
+a=1
+print(a)
+a='hi'
+print(a)
+a=True
+print(a)
 
+print('hi%d'%(123))
